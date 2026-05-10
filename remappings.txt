@@ -1,0 +1,6 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+erc721a/=lib/ERC721A/
+@chainlink/contracts/=lib/chainlink-evm/contracts/
+forge-std/=lib/forge-std/src/
+v4-core/=lib/v4-core/
+v4-periphery/=lib/v4-periphery/
